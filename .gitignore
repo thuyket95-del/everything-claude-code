@@ -1,0 +1,24 @@
+# Archive files (too large for GitHub)
+*.zip
+*.rar
+*.7z
+
+# Extracted folders
+BAN VIP/
+
+# Logs & temp
+crack_log.txt
+FOUND_PASSWORD.txt
+__pycache__/
+*.pyc
+
+# ECC internal state
+.agent/ecc-install-state.json
+
+# Node modules
+node_modules/
+everything-claude-code/
+
+# OS files
+Thumbs.db
+.DS_Store
